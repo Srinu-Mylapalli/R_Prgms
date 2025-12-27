@@ -1,0 +1,6 @@
+p=int(input("enter principal amount: "))
+R=int(input("enter annual interest rate: "))
+n=int(input("enter no. of months you need: "))
+r=R/(12*100)
+EMI=p*r*((1+r)**n)/(((1+r)**n)-1)
+print("Your EMI is : ",EMI)

@@ -1,0 +1,5 @@
+fp=open("abc.txt","r")
+print(fp.read())
+print(fp.readline())
+print(fp.readline(2))
+print(fp.readline(5))
