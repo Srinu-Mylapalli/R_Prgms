@@ -1,3 +1,0 @@
-hai
-hello
-welcome to python lab

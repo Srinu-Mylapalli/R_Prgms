@@ -1,6 +1,0 @@
-Hello python
- Let's learn python programming for ML
-1
-2
-3
-4
